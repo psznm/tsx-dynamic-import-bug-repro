@@ -1,2 +1,2 @@
 
-export const name = 'test1-json';
+export const name = 'test1-ts';
