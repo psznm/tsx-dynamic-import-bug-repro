@@ -18,6 +18,7 @@ test1-json
 ```
 
 ./node_modules/.bin/tsx ./test2.ts
+
 Expected result:
 ```
 test1-json
